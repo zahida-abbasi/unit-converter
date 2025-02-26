@@ -35,7 +35,7 @@ st.markdown("""
     }
     .stTabs [data-baseweb="tab-list"] button {
         font-size: 16px;
-        color: #ffffff; /* Text color for inactive tabs */
+        color: #000080; /* Text color for inactive tabs */
     }
     .stTabs [data-baseweb="tab-list"] button:hover {
         color: #4a90e2; /* Text color on hover */
